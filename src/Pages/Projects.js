@@ -9,7 +9,7 @@ function Projects() {
     <div className='app'>
         <div className='head_line'>
             <div className='links_container'>
-                <a href='/' className='nav_link_home'>Home</a>
+                <a href='/portfolio_site' className='nav_link_home'>Home</a>
                 <a href='/about' className='nav_link_home'>About Me</a>
                 <a href='/projects' className='nav_link_projects'>Projects</a>
             </div>
